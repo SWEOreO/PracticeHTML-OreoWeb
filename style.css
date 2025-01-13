@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color:aliceblue
+}
+
+nav a{
+  background-color: antiquewhite;
+}
+
+
+main h1{
+  font-size: xx-large;
+}
+
+img{
+  border-radius: 80%;
+  width: 500px;
+  height: 380px;
+}
